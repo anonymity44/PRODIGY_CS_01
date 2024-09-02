@@ -10,4 +10,4 @@ Decryption: Encrypted text can be decrypted by using the same shift value.
 **Usage:**
 Run the script.
 Input the message you want to encrypt or decrypt.
-Enter the shift value (positive for right shift, negative for left shift).
+Enter the shift value in number
